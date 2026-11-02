@@ -1,0 +1,14 @@
+Copyright (c) 2026 Praveen Kumar
+
+PROJECT: M.A.S.T.I.S.H.K. (The Mastishk Initiative)
+AUTHOR: Praveen Kumar
+ALL RIGHTS RESERVED.
+
+This software and its associated documentation are the exclusive property of Praveen Kumar. 
+
+1. NO COPYING: You may not copy, reproduce, or distribute this code, in whole or in part, without explicit written permission from the Author.
+2. NO MODIFICATION: You may not modify, alter, or create derivative works based on this software.
+3. NO COMMERCIAL USE: This software cannot be sold, sublicensed, or used for commercial purposes by anyone other than the Author.
+4. AUTHORSHIP: You may not claim this software, its architecture, or its logic as your own. 
+
+Any unauthorized use, distribution, or reproduction of this project is strictly prohibited and constitutes a violation of copyright laws.
